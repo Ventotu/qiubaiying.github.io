@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      01-Networking-Overview
+title:      Networking 1.Overview
 subtitle:   How to network into finance market
 date:       2017-08-12
 author:     Wentao
