@@ -1,7 +1,7 @@
 # Site settings
 title: TWT Blog
-SEOTitle: 涂文涛的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+SEOTitle: 涂文涛的博客 | TWT Blog
+header-img: img/post-bg-blog.jpg
 email: eleventu520@gmail.com
 description: "Every failure is leading towards success."
 keyword: "TWT, TWT Blog,  涂文涛的博客,  ventotu,  涂文涛，Python，Quant"
@@ -19,11 +19,11 @@ sidebar-avatar: img/icon_wechat.png      # use absolute URL, seeing it's used in
 # SNS settings
 RSS: false
 # weibo_username:
-zhihu_username:     Debugger
-github_username:    ventotu
-facebook_username:  Wentao Tu
+zhihu_username:     porriage
+github_username:    Ventotu
+facebook_username:  profile.php?id=100014843887706
 #jianshu_username:
-#twitter_username:
+twitter_username: Wentao_Tu
 
 
 
