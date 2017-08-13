@@ -12,7 +12,7 @@ tags:
 
 
 ## Networking: Mindset & Key Strategies
-
+Don’t talk about pro questions like:
 * Bullet Where do you think the market is heading?
 * What do you think is going on with this company?
 * What you think about the future the industry?
